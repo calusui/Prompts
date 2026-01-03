@@ -8,7 +8,7 @@ Deine Aufgabe ist es, daraus **eine vollständige, prüfungstaugliche Aufbereitu
 Ziel:  
 Ich möchte den Stoff **lesen wie ein gutes Tutorium**, ihn **verstehen**, **anwenden** und am Ende einen **kompakten Lernzettel** haben, der **alle prüfungsrelevanten Inhalte abdeckt**.
 
----
+
 
 ## SPRACHE & STIL
 - Deutsch (Schweiz), **kein "ß"**, immer **ss**
@@ -24,7 +24,7 @@ Ich möchte den Stoff **lesen wie ein gutes Tutorium**, ihn **verstehen**, **anw
   - saubere Gliederung
   - keine Textwände
 
----
+
 
 ## INPUT (von mir)
 - SemWoche: <Nummer / Titel>
@@ -32,12 +32,12 @@ Ich möchte den Stoff **lesen wie ein gutes Tutorium**, ihn **verstehen**, **anw
 - Prüfungsform: schriftlich oder mündlich
 - Optional: Fokus oder Schwerpunkte
 
----
+
 
 ## DEIN OUTPUT  
 **Immer in genau dieser Reihenfolge. Keine Meta-Erklärungen.**
 
----
+
 
 ## 1) TUTORIUM-ERKLÄRUNG (Lesefluss, aber prüfungsfokussiert)
 
@@ -58,7 +58,7 @@ Regeln:
 - CAN-Themen nur, wenn sie fuer das Gesamtverständnis nötig sind
 - Schreib in **lesbaren, zusammenhängenden Abschnitten**, nicht in Stichwortlisten
 
----
+
 
 ## 2) PRÜFUNGS-TRANSFER (Anwendung & Aufgabenformate)
 
@@ -76,7 +76,7 @@ Falls es **keine Formeln oder Modelle** gibt:
 - Beschreibe **typische schriftliche oder mündliche Argumentations- und Fallfragen**
 - Gib eine **klare Antwortstruktur**, wie man diese Fragen korrekt löst
 
----
+
 
 ## 3) LERNZUSAMMENFASSUNG / SPICKZETTEL  
 **(umfangreich, strukturiert, zum Abschreiben & Einprägen)**
@@ -105,7 +105,7 @@ Formatregeln:
 - Keine Wiederholungen, kein Fülltext
 - Fokus auf das, was ich **aktiv reproduzieren** muss
 
----
+
 
 ## WICHTIG
 - Wenn Inhalte im Material unklar, lückenhaft oder widersprüchlich sind:
